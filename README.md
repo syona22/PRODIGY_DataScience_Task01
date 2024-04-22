@@ -1,4 +1,4 @@
-# PRODIGY_ProdigyInfotech_Task01
+# PRODIGY_DataScience_Task01
 # The dataset is from the World Bank and contains information about the total population of various countries and regions over several years from 1960 to 2022. Each row in the dataset represents a specific country or region, and each column corresponds to a year from 1960 to 2022, showing the population count for that particular year.
 # The metadata dataset contains the Country names and the Income distribution with respect to the Regions.
 # The code begins by importing the dataset and then proceeds to extract information from it. It undergoes a data cleaning process where null values are eliminated to ensure data accuracy. Following this, unique values are extracted from specific columns within the dataset. Finally, the code generates a bar graph and histogram based on the cleaned and processed data, presenting visual representations of the dataset's insights.
